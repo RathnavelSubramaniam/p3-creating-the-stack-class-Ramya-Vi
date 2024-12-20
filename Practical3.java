@@ -42,7 +42,7 @@ class Stack1
             return stck[top];
         }
     }
-}
+}                                                                                                                                                                                             
 public class Practical3
 {
     public static void main(String args[])
